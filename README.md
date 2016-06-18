@@ -1,4 +1,4 @@
-Shiny-Streamplot
+Shiny-Streamgraph
 ===============
 Currently hosted at: `https://justinsilverman.shinyapps.io/Streamgraph/`
 
