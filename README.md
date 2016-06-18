@@ -9,5 +9,5 @@ To run this app locally you can install the **shiny** and **streamgraph**
 packages in R, then clone this repository locally and run
 `shiny:;runApp('Streamgraph')`. 
 
-![screenshot]("imgs/Screenshot_Shiny-Streamgraph.png")
+![screenshot](imgs/Screenshot_Shiny-Streamgraph.png "Screenshot")
 
